@@ -29,7 +29,7 @@
     <dependency>
       <groupId>org.eclipse.jetty.aggregate</groupId>
       <artifactId>jetty-all</artifactId>
-      <version>9.2.27.v20190403</version>
+      <version>9.4.53.v20231009</version>
     </dependency>
     <dependency>
       <groupId>org.slf4j</groupId>
